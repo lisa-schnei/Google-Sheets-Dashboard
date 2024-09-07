@@ -37,7 +37,7 @@ A dataset with four data tables has been provided for the fictional company 'Adv
 
 ## Output
 
-Tableau Dashboard
+Google Sheets Dashboard
 
-! [performance dashboard preview](performance-dashboard-preview.jpg)
+![performance dashboard preview](performance-dashboard-preview.jpg)
 
